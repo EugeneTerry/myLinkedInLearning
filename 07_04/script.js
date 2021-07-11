@@ -9,3 +9,7 @@
  */
 
 
+const desk = [ "mouse", "speaker", "adaptor", "iPad", "pencil"];
+
+desk.push("mic");
+desk.sort()
